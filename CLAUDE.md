@@ -1,3 +1,7 @@
+# claude-skills
+
+This repo is my personal fork of the [mattpocock/skills repository](https://github.com/mattpocock/skills).
+
 Skills are organized into bucket folders under `skills/`:
 
 - `engineering/`: daily code work
